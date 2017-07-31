@@ -1,5 +1,6 @@
 package algorithm;
 
+/**选择排序**/
 public class Selection extends Basic {
 	public static void sort(Comparable[] a) {
 		// 获取数组长度
